@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T08:05:40 IST" name="Default suite" finished-at="2023-01-27T08:05:40 IST" duration-ms="58">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T08:05:40 IST" name="Default test" finished-at="2023-01-27T08:05:40 IST" duration-ms="58">
+      <class name="testngtest.CheckingTestSequence">
+        <test-method is-config="true" signature="checkTextOnLoginPage()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="checkTextOnLoginPage" finished-at="2023-01-27T08:05:40 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTextOnLoginPage -->
+        <test-method signature="verifyLoginAfterCorrectCredentials()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="verifyLoginAfterCorrectCredentials" finished-at="2023-01-27T08:05:40 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginAfterCorrectCredentials -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="logout" finished-at="2023-01-27T08:05:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="verifyLoginAfterInCorrectCredentials()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="verifyLoginAfterInCorrectCredentials" finished-at="2023-01-27T08:05:40 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginAfterInCorrectCredentials -->
+        <test-method is-config="true" signature="checkTextOnLoginPage()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="checkTextOnLoginPage" finished-at="2023-01-27T08:05:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTextOnLoginPage -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:testngtest.CheckingTestSequence@32ee6fee]" started-at="2023-01-27T08:05:40 IST" name="logout" finished-at="2023-01-27T08:05:40 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testngtest.CheckingTestSequence -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
